@@ -1,0 +1,89 @@
+body{
+  background-color: #DCDCDC !important;
+}
+label{
+  display: inline-block;
+  max-width: 100%;
+  margin-bottom: 5px;
+  font-weight: 700;
+}
+.login-form
+{
+  background:#ccc;
+  margin:0 auto;
+  position: relative;
+  top: 100px;
+}
+
+.file-upload-block
+{
+  margin:0 auto;
+  position: relative;
+  top: 100px;
+}
+.file-upload
+{
+  margin-top:100px;
+}
+
+.upload-container
+{
+  margin: 0 auto;
+  padding-top:20px;
+}
+
+.logo-image
+{
+  float:left;
+  padding-left:3px;
+  height: 50px;
+  width: 55px;
+}
+.logo-text
+{
+  color:white !important;
+  font-weight: 700;
+  margin-top: 5px;
+  padding-left: 8px;
+}
+.navigation-bg
+{
+  background-color: #D20A0F;
+  border-color: #D20A0F;
+  border-radius: 4px;
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  height: 50px;
+}
+.well
+{
+  background-color: white;
+  min-height: 20px;
+  padding: 19px;
+  margin-bottom: 20px;
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+  box-shadow: inset 0 1px 1px rgba(0,0,0,.05);
+}
+.header-text
+{
+  margin-top:0px;
+  text-decoration:underline;
+  font-size: 24px;
+}
+.addcusto-formblk
+{
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-left:0px !important;
+  margin-right:0px !important;
+  border-color: lightgray;
+}
+
+.togglebar
+{
+  display:none;
+}
